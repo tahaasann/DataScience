@@ -1,0 +1,1 @@
+I will share all the things I learned and took notes on my way to becoming a Data Scientist under this repo.
